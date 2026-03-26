@@ -133,9 +133,9 @@ Top feature by importance: **Study Hours** (48%) → **Previous Score** (21%) �
 
 ## 👨‍💻 Author
 
-**Aladdin**  
+**Ayesha **  
 B.Sc. IT Student | Aspiring AI Engineer  
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+[GitHub](https://github.com/ayeshasiddiqua8881-bit) · [LinkedIn](www.linkedin.com/in/ayeshasiddiquaabdulkalam71ab7a391)
 
 ---
 
